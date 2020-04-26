@@ -1,0 +1,19 @@
+File:  0 
+Name: BackGround.bmp
+Type: Object
+File:  1 
+Name: Clap01.wav
+Type: Binary
+Size:  11290 
+First 16 bytes:
+52 49 46 46 12 2C 00 00 57 41 56 45 66 6D 74 20 
+File:  2 
+Name: null.txt
+Type: Binary
+Size: 0
+File:  3 
+Name: shared_sec.asm
+Type: Binary
+Size:  186 
+First 16 bytes:
+66 6F 72 6D 61 74 20 4D 53 20 43 4F 46 46 0D 0A 
